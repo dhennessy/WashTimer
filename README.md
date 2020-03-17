@@ -22,9 +22,12 @@ Arduino:
 * Use any Arduino or Arduino-compatible board. I used an Arduino Micro because it was small and
 I had one handy but anything will work.
 
+A bit of perfboard is also useful to hold everything together. I 3D-printed a case for it but
+it could also be placed in a translucent food container (with a cutout for the proximity sensor).
+
 ## Wiring it up
 
-Hook up the signal wires as possible (again, not critical, the pins are configurable in software):
+Hook up the signal wires as follows (again, not critical, the pins are configurable in software):
 * D2 - display SCLK
 * D3 - display CS
 * D4 - display DATA
