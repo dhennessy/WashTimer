@@ -44,4 +44,9 @@ Libraries:
 * https://github.com/MajicDesigns/MD_Parola
 * https://github.com/MajicDesigns/MD_MAX72XX
 
+## Printing the enclosure
+
+The STL file for the enclosure I used is in the `enclosure` folder. There's no special mounting needed -
+just lay it flat on a table with the display / sensor installed and fix them with some hot glue.
+
 License: CC Attribution-NonCommercial https://creativecommons.org/licenses/by-nc/4.0/
